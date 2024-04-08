@@ -166,6 +166,6 @@ mysqli_close($connexion);
     </div>
     <!--  les fichiers JavaScript -->
     <script src="app.js"></script>
-    <script src="controlsaisi.js"></script>
+    <script src="controlsaisi.js"></script><!--  ce fichier est dédié au conrol de saisi du form d'inscription -->
   </body>
 </html>
