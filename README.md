@@ -55,6 +55,8 @@ The system involves two main actors:
   
 - **Database**:
   - MySQL
+- **log in**:
+![Capture d'écran 2024-04-02 204222](https://github.com/SoumayaRomdhani/dynamic-web-application_startup_capital_management/assets/157825319/a41a10ed-201e-492a-8e5e-2cedd15ff293)
 
 ## Getting Started
 
